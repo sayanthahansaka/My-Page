@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+select>table>thead>th>a{
+    background-color: white;
+}
+#H1{
+    color: white;
+}
+body>div{
+    color: white;
+}
+body>table>th>h2{
+    color: greenyellow;
+}
+#A2{
+    color: palegoldenrod;
+}
+#A3{
+    color: palegoldenrod;
+}
+#A4{
+    color: palegoldenrod;
+}
+#A5{
+    color: palegoldenrod;
+}
+#A6{
+    color: palegoldenrod;
+}
+#A7{
+    color: palegoldenrod;
+}
+#A8{
+    color: palegoldenrod;
+}
