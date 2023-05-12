@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1494e420-110f-4e07-a6b2-a29fbdcfe1cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assesc/cssStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assesc/cssStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assesc/cssStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +67,20 @@
       <workItem from="1678850594618" duration="124000" />
       <workItem from="1681311160221" duration="3947000" />
       <workItem from="1681373156294" duration="1332000" />
+      <workItem from="1681441085449" duration="588000" />
+      <workItem from="1681530759023" duration="613000" />
+      <workItem from="1681716608160" duration="2041000" />
+      <workItem from="1683433701165" duration="23000" />
+      <workItem from="1683433930967" duration="16046000" />
+      <workItem from="1683539151395" duration="87000" />
+      <workItem from="1683556204176" duration="225000" />
+      <workItem from="1683556687765" duration="8000" />
+      <workItem from="1683556731291" duration="603000" />
+      <workItem from="1683641865517" duration="106000" />
+      <workItem from="1683877254228" duration="10000" />
+      <workItem from="1683877384716" duration="25000" />
+      <workItem from="1683877833227" duration="10000" />
+      <workItem from="1683878928894" duration="31000" />
     </task>
     <servers />
   </component>
